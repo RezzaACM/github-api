@@ -1,0 +1,1 @@
+UPDATE table_a SET column_a = 1 WHERE id = 1;
