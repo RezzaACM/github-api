@@ -3,8 +3,8 @@
 *       @rezzaacm
 
 # Specific directories
-/docs/  @username2
-/src/   @username3
+# /docs/  @username2
+# /src/   @username3
 
 # Specific files
-/README.md @username4
+# /README.md @username4
