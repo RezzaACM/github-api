@@ -1,10 +1,10 @@
 # Example CODEOWNERS file
 # All files in the repository
-*       @username1 @team1
+*       @rezzaacm
 
 # Specific directories
 /docs/  @username2
 /src/   @username3
 
 # Specific files
-/* @rezzaacm
+/README.md @username4
