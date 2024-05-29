@@ -1,1 +1,10 @@
-@rezzaacm
+# Example CODEOWNERS file
+# All files in the repository
+*       @username1 @team1
+
+# Specific directories
+/docs/  @username2
+/src/   @username3
+
+# Specific files
+/* @rezzaacm
